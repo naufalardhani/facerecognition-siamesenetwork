@@ -20,4 +20,4 @@ python app.py detect
 seluruh keterangan bagaimana capture gambar, buat absensi dll ada di terminal
 
 # Credits
-- [@amiiin94 - Dev](https://github.com/amiiin94)
+- [@amiiin94](https://github.com/amiiin94) - Dev.
