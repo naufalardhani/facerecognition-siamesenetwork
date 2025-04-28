@@ -1,23 +1,19 @@
-## Face Recognition (Siamese neural network)
+# Face Recognition Flask Web Application
 
-clone repository ini atau download zip file
+## To Do
+- Download this model [siamese_model.h5](https://drive.google.com/drive/folders/1asMuF3PqdkdiLCoQwWlP4B6_fVqHZb4v?usp=sharing).
 
-download model pada link berikut:\
-https://drive.google.com/drive/folders/1asMuF3PqdkdiLCoQwWlP4B6_fVqHZb4v?usp=sharing \
-simpan siamese_model.h5 file pada root folder / folder dimana app.py berada
+## Install 
+```sh
+> git clone https://github.com/naufalardhani/facerecognition-siamesenetwork
+> cd facerecognition-siamesenetwork
+> pip install -r requirements.txt
+> mv ~/Downloads/siamese_model.h5 .
+> python app.py
+```
 
-install python library:\
-pip install -r requirements.txt
-
-
-
-jalanin di terminal, jika mau nambah orang baru:\
-python app.py add-person [nama] | contoh: python app.py add-person joni
-
-untuk detect muka dan absen:\
-python app.py detect
-
-seluruh keterangan bagaimana capture gambar, buat absensi dll ada di terminal
+## Usage
+Just try!
 
 # Credits
-- [@amiiin94](https://github.com/amiiin94) - Dev.
+- [@amiiin94](https://github.com/amiiin94) - Core Developer.
