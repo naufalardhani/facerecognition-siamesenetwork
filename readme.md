@@ -1,8 +1,9 @@
-# Face Recognition Flask Web Application
+<div align="center">
 
-<p align="center">
-     ## Face Recognition Flask Web Application
-</p>
+# Face Recognition Siamese Network 
+
+</div>
+
 <p align="center">
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-blueviolet.svg"></a>
   <a href="https://github.com/naufalardhani/facerecognition-siamesenetwork/issues"><img src="https://img.shields.io/github/issues/naufalardhani/facerecognition-siamesenetwork?color=blueviolet"></a>
