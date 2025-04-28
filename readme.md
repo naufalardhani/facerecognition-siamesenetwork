@@ -1,3 +1,4 @@
+## Face Recognition (Siamese neural network)
 
 clone repository ini atau download zip file
 
@@ -17,3 +18,6 @@ untuk detect muka dan absen:\
 python app.py detect
 
 seluruh keterangan bagaimana capture gambar, buat absensi dll ada di terminal
+
+# Credits
+- [@amiiin94 - Dev](https://github.com/amiiin94)
